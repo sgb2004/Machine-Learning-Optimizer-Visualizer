@@ -48,4 +48,4 @@ yarn dev
 pnpm dev
 \`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can pan the 3D camera using your mouse or the WASD/Arrow keys.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
